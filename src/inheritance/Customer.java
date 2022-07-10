@@ -2,6 +2,7 @@ package inheritance;
 
 public class Customer {
 
+	
 	//멤버변수
 	protected int CustomerId; 		//고객아이디
 	protected String customerName; 	//고객이름
